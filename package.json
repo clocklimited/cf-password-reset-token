@@ -1,17 +1,17 @@
 {
   "author": "Ben Gourley",
-  "name": "cf-password-reset",
+  "name": "cf-password-reset-token",
   "description": "Generate and validate password reset tokens",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "tags": [],
   "repository": {
     "type": "git",
-    "url": "git@github.com:clocklimited/cf-password-reset"
+    "url": "git@github.com:clocklimited/cf-password-reset-token"
   },
   "publishConfig": {
     "registry": "http://npm.clockte.ch"
   },
-  "main": "",
+  "main": "token.js",
   "scripts": {
     "lint": "./node_modules/.bin/jshint . --reporter=./node_modules/jshint-full-path/index.js",
     "pretest": "npm run-script lint",
