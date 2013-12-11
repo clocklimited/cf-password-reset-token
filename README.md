@@ -1,10 +1,10 @@
-# cf-password-reset
+# cf-password-reset-token
 
 Generate and validate password reset tokens
 
 ## Installation
 
-    npm install --save cf-password-reset
+    npm install --save cf-password-reset-token
 
 ## Usage
 
