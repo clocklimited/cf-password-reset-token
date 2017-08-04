@@ -8,9 +8,6 @@
     "type": "git",
     "url": "git@github.com:clocklimited/cf-password-reset-token"
   },
-  "publishConfig": {
-    "registry": "http://npm.clockte.ch"
-  },
   "main": "token.js",
   "scripts": {
     "lint": "./node_modules/.bin/jshint . --reporter=./node_modules/jshint-full-path/index.js",
