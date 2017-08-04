@@ -2,7 +2,7 @@
   "author": "Ben Gourley",
   "name": "cf-password-reset-token",
   "description": "Generate and validate password reset tokens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "tags": [],
   "repository": {
     "type": "git",
