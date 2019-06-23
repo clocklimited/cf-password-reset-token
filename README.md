@@ -1,5 +1,7 @@
 # cf-password-reset-token
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/cf-password-reset-token.svg)](https://greenkeeper.io/)
+
 Generate and validate password reset tokens
 
 ## Installation
